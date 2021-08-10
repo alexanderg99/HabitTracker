@@ -2,9 +2,10 @@
 import requests
 import datetime
 
-TOKEN = "dfwfqwrg334r"
-ID = 'graph1'
-USERNAME = 'alexg99'
+TOKEN = #ENTER TOKEN 
+ID = #ENTER YOUR ID
+USERNAME = #ENTER YOUR USERNAME
+
 headers = {
 "X-USER-TOKEN":TOKEN
 
